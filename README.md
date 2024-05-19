@@ -1,8 +1,8 @@
 # To-do list
 
-## A simple permanent to-do list that's created using ExpressJS and Postgres
+ A simple permanent to-do list that's created using ExpressJS and Postgres
 
-Prerequisites needed
+### Prerequisites needed
 
   1. [PostgresSQL](https://www.postgresql.org/)
   2. PgAdmin
