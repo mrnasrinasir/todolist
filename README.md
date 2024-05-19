@@ -15,7 +15,8 @@ How to Use
    
 
 
-Future updates:
-  -[ ] multiple user lists
-  -[ ] Authentication
+Future updates
+
+  - [ ] multiple user lists
+  - [ ] Authentication
     
