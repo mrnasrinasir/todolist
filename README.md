@@ -1,4 +1,4 @@
-#To-do list
+# To-do list
 
 ## A simple permanent to-do list that's created using ExpressJS and Postgres
 
