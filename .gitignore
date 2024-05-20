@@ -1,6 +1,7 @@
 #Project-Wide
 .DS.Store
 solution.js
+config.js
 
 # Logs
 logs
